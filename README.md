@@ -2,10 +2,10 @@
     <h1><img height="30" src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif"/> Hello there, </h1>
 </div>
 <div>
-  <h3> 🎀<em> I’m Miriana <br>
-  👩‍💻 <em>Currently learning Front-End & Web Development <br>
-  👨‍🎓 <em>Graduating in Systems Analysis and Development <br>
-  🦢 <em>She/Her Pronouns</h3> <br><br>
+  <h3> <img height="20" src="https://emoji.gg/assets/emoji/7782-cat-paw.png"/><em> I’m Miriana <br>
+  <img height="20" src="https://emoji.gg/assets/emoji/7782-cat-paw.png"/> <em>Currently learning Front-End & Web Development <br>
+  <img height="20" src="https://emoji.gg/assets/emoji/7782-cat-paw.png"/> <em>Graduating in Systems Analysis and Development <br>
+  <img height="20" src="https://emoji.gg/assets/emoji/7782-cat-paw.png"/> <em>She/Her Pronouns</h3> <br><br>
   
 </div>
 <div align="center">
