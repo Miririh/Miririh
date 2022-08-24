@@ -18,8 +18,10 @@
   <img align="center" alt="HTML-5" height="30" src="https://img.shields.io/badge/html-★★★-lightgrey?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white" /></a>
   <img align="center" alt="CSS-3" height="30" src="https://img.shields.io/badge/css-★★★-lightgrey?labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white" />
   <img align="center" alt="BOOTSTRAP" height="30" src="https://img.shields.io/badge/bootstrap-★★★-lightgrey?labelColor=563D7C&logo=BootStrap&style=for-the-badge&logoColor=white" />
-  <img align="center" alt="JAVASCRIPT" height="30" src="https://img.shields.io/badge/javascript-★☆☆-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black" />
+  <img align="center" alt="JAVASCRIPT" height="30" src="https://img.shields.io/badge/javascript-★★★-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black" />
+  <img align="center" alt="JAVASCRIPT" height="30" src="https://img.shields.io/badge/typescript-★☆☆-lightgrey?labelColor=007ACC&logo=TypeScript&style=for-the-badge&logoColor=white" />
     <!---
+    https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
   <img align="center" alt="JAVASCRIPT" height="30" src="https://img.shields.io/badge/javascript-☆☆☆-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black" />
     <img align="center" alt="PHP" height="30" src="https://img.shields.io/badge/php-☆☆☆-lightgrey?labelColor=777BB4&logo=php&style=for-the-badge&logoColor=white" />
     <img align="center" alt="MYSQL" height="30" src="https://img.shields.io/badge/mysql-☆☆☆-lightgrey?labelColor=00000F&logo=mysql&style=for-the-badge&logoColor=white" />
