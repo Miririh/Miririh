@@ -3,7 +3,7 @@
 </div>
 <div>
   <h3> <img height="20" src="https://emoji.gg/assets/emoji/7782-cat-paw.png"/><em> I’m Miriana <br>
-  <img height="20" src="https://emoji.gg/assets/emoji/7782-cat-paw.png"/> <em>Currently learning Front-End & Web Development <br>
+  <img height="20" src="https://emoji.gg/assets/emoji/7782-cat-paw.png"/> <em>Full-stack Web Developer <br>
   <img height="20" src="https://emoji.gg/assets/emoji/7782-cat-paw.png"/> <em>Graduating in Systems Analysis and Development <br>
   <img height="20" src="https://emoji.gg/assets/emoji/7782-cat-paw.png"/> <em>She/Her Pronouns</h3> <br><br>
   
@@ -14,22 +14,14 @@
 </div>
 
 <div align="center" >
-  <a href="" target="_blank"> 
-  <img align="center" alt="HTML-5" height="30" src="https://img.shields.io/badge/html-★★★-lightgrey?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white" /></a>
-  <img align="center" alt="CSS-3" height="30" src="https://img.shields.io/badge/css-★★★-lightgrey?labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white" />
-  <img align="center" alt="BOOTSTRAP" height="30" src="https://img.shields.io/badge/bootstrap-★★★-lightgrey?labelColor=563D7C&logo=BootStrap&style=for-the-badge&logoColor=white" />
-  <img align="center" alt="JAVASCRIPT" height="30" src="https://img.shields.io/badge/javascript-★★★-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black" />
-    <!---
-<img align="center" alt="TYPESCRIPT" height="30" src="https://img.shields.io/badge/typescript-★☆☆-lightgrey?labelColor=007ACC&logo=TypeScript&style=for-the-badge&logoColor=white" />
-    https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
-  <img align="center" alt="JAVASCRIPT" height="30" src="https://img.shields.io/badge/javascript-☆☆☆-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black" />
-    <img align="center" alt="PHP" height="30" src="https://img.shields.io/badge/php-☆☆☆-lightgrey?labelColor=777BB4&logo=php&style=for-the-badge&logoColor=white" />
-    <img align="center" alt="MYSQL" height="30" src="https://img.shields.io/badge/mysql-☆☆☆-lightgrey?labelColor=00000F&logo=mysql&style=for-the-badge&logoColor=white" />
-     <br>
-<a href="" target="_blank"> <img align="center" alt="HTML-5" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+  <img align="center" alt="HTML-5" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
   <img align="center" alt="CSS-3" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank" />
   <img align="center" alt="BOOTSTRAP" height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img align="center" alt="JAVASCRIPT" height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img align="center" alt="NODEJS" height="30" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img align="center" alt="VUEJS" height="30" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img align="center" alt="MONGODB" height="30" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <!---
   <img align="center" alt="PHP" height="30" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img align="center" alt="MYSQL" height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="JQUERY" height="30" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
