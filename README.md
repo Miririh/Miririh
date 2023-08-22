@@ -5,7 +5,6 @@
   <h3> <img height="20" src="https://emoji.gg/assets/emoji/7782-cat-paw.png"/><em> I’m Miriana <br>
   <img height="20" src="https://emoji.gg/assets/emoji/7782-cat-paw.png"/> <em>Full-stack Web Developer <br>
   <img height="20" src="https://emoji.gg/assets/emoji/7782-cat-paw.png"/> <em>Graduating in Systems Analysis and Development <br>
-  <img height="20" src="https://emoji.gg/assets/emoji/7782-cat-paw.png"/> <em>She/Her Pronouns</h3> <br><br>
   
 </div>
 <div align="center">
