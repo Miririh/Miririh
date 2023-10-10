@@ -1,17 +1,11 @@
 <div>
-    <h1><img height="30" src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif"/> Hello there, </h1>
+   Hello there, </h1>
 </div>
 <div>
   <h3> <img height="20" src="https://emoji.gg/assets/emoji/7782-cat-paw.png"/><em> I’m Miriana <br>
   <img height="20" src="https://emoji.gg/assets/emoji/7782-cat-paw.png"/> <em>Full-stack Web Developer <br>
   <img height="20" src="https://emoji.gg/assets/emoji/7782-cat-paw.png"/> <em>Graduating in Systems Analysis and Development <br>
-  
 </div>
-<div align="center">
-  <a href="https://github.com/miririh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miririh&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</div>
-
 <div align="center" >
   <img align="center" alt="HTML-5" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
   <img align="center" alt="CSS-3" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank" />
