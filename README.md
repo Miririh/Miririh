@@ -4,8 +4,8 @@
 </div>
 <div>
   <h3> <img height="20" src="https://emoji.gg/assets/emoji/7782-cat-paw.png"/><em> I’m Miriana <br>
-  <img height="20" src="https://emoji.gg/assets/emoji/7782-cat-paw.png"/> <em>Full-stack Web Developer <br>
-  <img height="20" src="https://emoji.gg/assets/emoji/7782-cat-paw.png"/> <em>Graduating in Systems Analysis and Development <br>
+   <em>Full-stack Web Developer <br>
+<em>Graduating in Systems Analysis and Development <br>
 </div>
 <div align="center" >
   <img align="center" alt="HTML-5" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
@@ -15,7 +15,9 @@
   <img align="center" alt="NODEJS" height="30" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img align="center" alt="VUEJS" height="30" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img align="center" alt="MONGODB" height="30" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <!---
+   <img align="center" alt="SASS" height="30" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+
+   <!---
   <img align="center" alt="PHP" height="30" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img align="center" alt="MYSQL" height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="JQUERY" height="30" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
